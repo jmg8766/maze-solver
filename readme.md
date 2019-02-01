@@ -2,21 +2,21 @@
 ===================================================================================================
 
 Your task is to write a program that solves mazes.  The input to your program is a text file describing the maze.  Your program should read this from standard input.  An example maze is:
-
+<pre>
 ###_###
 #_____#
 #_##_##
 #_##__#
 #_#####
-
+</pre>
 The # represent walls of the maze, and the underscores represent the open areas.  Rows of the maze are separated by newlines ('\n').  Your program should print a solution to standard output like this:
-
+<pre>
 ###a###
 #dcb__#
 #e##_##
 #f##__#
 #g#####
-
+</pre>
 Here the lower case letters a represent the path through the maze.  If the maze is large enough that it requires more than 26 steps to go through it, simply start at 'a' again after 'z'.  
 
 FAQ:
