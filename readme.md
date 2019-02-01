@@ -1,3 +1,5 @@
+This was a coding puzzle that I spent an afternoon solving as part of a job application process.
+
 #Here is the assignment I was given
 ===================================================================================================
 
